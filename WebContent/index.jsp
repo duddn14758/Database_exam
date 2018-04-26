@@ -30,14 +30,9 @@ while(rs.next()){
 	<%	
 }
 
-
-
 rs.close();
 st.close();
 conn.close();
-
-
-
 
 %>
 
