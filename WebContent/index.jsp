@@ -11,7 +11,7 @@
 
 <h2>KPOP 아이돌 펜사이트에 오신 것을 환영합니다.</h2>
 
-<table>
+<table border =1>
 
 <%
 	Class.forName("oracle.jdbc.OracleDriver");
